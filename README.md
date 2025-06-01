@@ -19,6 +19,8 @@ Windows Defender Firewall with Advanced Security (`wf.msc`)
 - allow-port22.png
 - firewall-rules-list.png
 - firewall-cleanup.png
+- Day4-firewall-report.docx (contains all screenshots & steps in one file)
+
 
 ## 🧠 Key Learnings:
 - GUI-based firewall configuration
